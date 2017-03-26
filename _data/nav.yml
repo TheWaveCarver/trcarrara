@@ -1,0 +1,3 @@
+main:
+    - { url: '/about', text: 'About Me' }
+    - { url: '/AdamPollackResume.pdf', text: 'Resume'}
